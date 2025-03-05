@@ -20,7 +20,8 @@ It allows users to enter a city name and fetches real-time weather data using [W
 3. Enter a city name and click "Get Weather".
 
 ## Preview
-![App Screenshot](screenshot.png)  <!-- You can add a screenshot if you want -->
+![Uploading weather-output.png…]()
+  <!-- You can add a screenshot if you want -->
 
 ## Author
 - Dhanish Abdul
