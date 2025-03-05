@@ -21,6 +21,7 @@ It allows users to enter a city name and fetches real-time weather data using [W
 
 ## Preview
 ![Uploading weather-output.png…]()
+
   <!-- You can add a screenshot if you want -->
 
 ## Author
